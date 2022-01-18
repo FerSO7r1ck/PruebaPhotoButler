@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UGCSceneAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 9994a2228c330914692c909930cd3602, type: 3}
+    - {fileID: 2800000, guid: ada2b4b3fd401ca4baecf2c34ddc9a40, type: 3}
+    - {fileID: 2800000, guid: ad8f752d762516b44aedf41c33cbf7f6, type: 3}
+    - {fileID: 2800000, guid: 6e428de61a62c914ba9ceecd1fb41914, type: 3}
+    - {fileID: 2800000, guid: 942288d2d3994b343b01eaf454bb6684, type: 3}
+    totalSpriteSurfaceArea: 9969
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9994a2228c330914692c909930cd3602, type: 3}
+  - {fileID: 21300000, guid: 942288d2d3994b343b01eaf454bb6684, type: 3}
+  - {fileID: 21300000, guid: ada2b4b3fd401ca4baecf2c34ddc9a40, type: 3}
+  - {fileID: 21300000, guid: 6e428de61a62c914ba9ceecd1fb41914, type: 3}
+  - {fileID: 21300000, guid: ad8f752d762516b44aedf41c33cbf7f6, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Blue Select
+  - Yellow Select
+  - Photo Image
+  - ugc_placeholder
+  - Rectangle 1630@1X
+  m_RenderDataMap: {}
+  m_Tag: UGCSceneAtlas
+  m_IsVariant: 0

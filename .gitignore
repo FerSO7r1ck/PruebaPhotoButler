@@ -1,0 +1,8 @@
+Library/
+!*/AEP3DScript/library/json.jsx
+Temp/
+.vs/
+obj/
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+PhotoButler.sln

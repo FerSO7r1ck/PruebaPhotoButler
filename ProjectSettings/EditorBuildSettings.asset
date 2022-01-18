@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_PhotoButler/Scenes/EmptyScene.unity
+    guid: 64da120385ee50a4cbe9321a3b58df35
+  - enabled: 1
+    path: Assets/_PhotoButler/Scenes/AELoaderDemo.unity
+    guid: 7f56e4944960be44490155b94cc0b167
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 0f6f8f7374160294482ea3e0769843e3,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 99bf4e1e2eee0bf43a69adcb07724f47,
+      type: 2}
+    com.unity.addressableassets: {fileID: 11400000, guid: 58510f34c9a047a42b829295f9053a2b,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3ee7e65162fd1e845849e6da39ce8ff1,
+      type: 2}
